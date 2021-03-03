@@ -15,9 +15,8 @@ Requirements:
 
 Modules Present:
 
-1. IPFS Module
-2. IPFS & Blockchain integrated Module
-3. OTP Module
+1. IPFS & Blockchain integrated Module
+2. OTP Module
 
 Steps to Re-Use :
 
@@ -27,9 +26,9 @@ Steps to Re-Use :
 
 3. Install Truffle
 
-4. Install Metamask Chrome extension (Required for IPFS + BLOCKCHAIN module)
+4. Install Metamask Chrome extension 
 
-5. Install Ganache Web APP (Required for IPFS + BLOCKCHAIN module)
+5. Install Ganache Web APP 
 
 
 Step to run the code :
