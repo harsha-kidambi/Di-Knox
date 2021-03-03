@@ -13,13 +13,11 @@ Requirements:
 5. Metamask
 6. Ganache
 
-![NODE](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-
 Modules Present:
 
 1. IPFS & Blockchain integrated Module
 2. OTP Module
-3. 
+
 ![DIKNOX](https://friendlyuser.github.io/file-track-Dapp/dapp-arch.png)
 
 Steps to Re-Use :
