@@ -18,7 +18,7 @@ Modules Present:
 1. IPFS & Blockchain integrated Module
 2. OTP Module
 
-![DIKNOX](https://friendlyuser.github.io/file-track-Dapp/dapp-arch.png)
+
 
 Steps to Re-Use :
 
@@ -31,6 +31,9 @@ Steps to Re-Use :
 4. Install Metamask Chrome extension 
 
 5. Install Ganache Web APP 
+
+![DIKNOX](https://friendlyuser.github.io/file-track-Dapp/dapp-arch.png)
+
 
 
 Step to run the code :
