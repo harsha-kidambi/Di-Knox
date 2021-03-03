@@ -35,11 +35,13 @@ Requirements:
 
 5. Install Ganache Web APP 
 
+# Working
+
 ![DIKNOX](https://friendlyuser.github.io/file-track-Dapp/dapp-arch.png)
 
 
 
-# Step to run the code :
+# Make it work
 
 npm start - This command should be used in the terminal (ensure that the path has app.js) to run the scripts.
 
