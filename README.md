@@ -4,7 +4,7 @@ Di-Knox : This is a Digital vault which is built using IPFS & Ethereum Blockchai
 
 Basically, This project helps to store valuable documents into Interplanetary File System and uses Blockchain to store all the records of transactions.
 
-![DIKNOX](https://friendlyuser.github.io/file-track-Dapp/dapp-arch.png)
+![DIKNOX](https://friendlyuser.github.io/file-track-Dapp/dapp-arch.png){:height="50%" width="50%"}
 
 
 Requirements:
@@ -16,7 +16,7 @@ Requirements:
 5. Metamask
 6. Ganache
 
-![NODE](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![NODE](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg){:height="50%" width="50%"}
 
 Modules Present:
 
