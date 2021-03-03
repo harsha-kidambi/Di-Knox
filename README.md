@@ -1,4 +1,4 @@
-# bug-free-pancake
+# Di-Knox
 
 Digital Vault using Ethereum
 
