@@ -43,8 +43,5 @@ npm start - This command should be used in the terminal (ensure that the path ha
 
 
 
-# Hope this helps :) 
-# Cheers
-# Happy Learning
 
 
