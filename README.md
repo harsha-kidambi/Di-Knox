@@ -13,7 +13,9 @@ Requirements:
 5. Metamask
 6. Ganache
 
-![DROOL](https://miro.medium.com/max/700/1*82A3uvAKYw-RTo99FyfxyQ.png)
+![BC](https://miro.medium.com/max/700/1*82A3uvAKYw-RTo99FyfxyQ.png)
+
+![NR](https://process.filestackapi.com/cache=expiry:max/resize=width:700/9UlIPoSATP6iLvQJgHiF)
 
 
 # Modules Present:
