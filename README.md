@@ -36,7 +36,7 @@ Step to run the code :
 npm start - This command should be used in the terminal (ensure that the path has app.js) to run the scripts.
 
 
-
+---------------------------------------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-----------------------------------------------------------------------
 
 Hope this helps :) 
 
