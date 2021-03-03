@@ -13,14 +13,14 @@ Requirements:
 5. Metamask
 6. Ganache
 
-Modules Present:
+# Modules Present:
 
 1. IPFS & Blockchain integrated Module
 2. OTP Module
 
 
 
-Steps to Re-Use :
+# Steps to Re-Use :
 
 1. Install Node modules
 
@@ -36,13 +36,15 @@ Steps to Re-Use :
 
 
 
-Step to run the code :
+# Step to run the code :
 
 npm start - This command should be used in the terminal (ensure that the path has app.js) to run the scripts.
 
 
 
 
-Hope this helps :) 
+# Hope this helps :) 
+# Cheers
+# Happy Learning
 
 
